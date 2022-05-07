@@ -1,6 +1,6 @@
 ### World zero and one, hellllo 👋
 
-Hi, I’m M.a.Pishdar! I am a developer of fast learning methods who loves:
+Hi, I’m Pishdar! I am a developer of fast learning methods who loves:
 
 <ul>
 <li>Construction of production line</li>
