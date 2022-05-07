@@ -12,6 +12,7 @@ Hi, I’m M.a.Pishdar! I am a developer of fast learning methods who loves:
 
 
 The learning process has always been fascinating to me. My mission is to reduce the learning time for humans.
+Apart from the technology I deal with on a daily basis, I am also passionate in economics, neuroscience, genetics, and data science and machine learning.
 
 🌍 Find me on the web:
     <p>LinkedIn: <a href="https://www.linkedin.com/in/mohammad-amin-pishdar/" title="Title">M a Pishdar</a></p>
