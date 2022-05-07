@@ -1,4 +1,4 @@
-### Hi there 👋
+### World zero and one, hellllo 👋
 
 Hi, I’m M.a.Pishdar! I am a developer of fast learning methods who loves:
 
