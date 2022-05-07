@@ -11,7 +11,7 @@ Hi, I’m Pishdar! I am a developer of fast learning methods who loves:
 </ul>
 
 
-<p>The learning process has always been fascinating to me. My mission is to reduce the learning time for humans. Apart from the technology I deal with on a daily basis, I am also passionate in economics, neuroscience, genetics, and data science and machine learning.</p>
+<p>The learning process has always been fascinating to me. My mission is to reduce the learning time for humans. Apart from the technology I deal with on a daily basis, I am also passionate in **economics**, **neuroscience**, **genetics**, and **data science** and **machine learning**.</p>
 
 🌍 Find me on the web:
     <p>LinkedIn: <a href="https://www.linkedin.com/in/mohammad-amin-pishdar/" title="Title">Mohammad amin Pishdar</a></p>
