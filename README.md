@@ -2,11 +2,14 @@
 
 Hi, I’m M.a.Pishdar! I am a developer of fast learning methods who loves:
 
-    - Construction of production line
-    - Building teaching and learning development tools
-    - Simplifying things such as training
-    - Accelerate the teaching and learning process
-    - Digital Learning Assets
+    <ol>
+    <li>Construction of production line</li>
+    <li>Building teaching and learning development tools</li>
+    <li>Simplifying things such as training</li>
+    <li>Accelerate the teaching and learning process</li>
+    <li>Digital Learning Assets</li>
+    </ol>
+
 
 The learning process has always been fascinating to me. My mission is to reduce the learning time for humans.
 
