@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**mohammad-amin-pishdar/mohammad-amin-pishdar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Hi, I’m M.a.Pishdar! I am a developer of fast learning methods who loves:
 
     - Construction of production line
@@ -15,4 +12,7 @@ The learning process has always been fascinating to me. My mission is to reduce 
 
 🌍 Find me on the web:
     - LinkedIn: https://www.linkedin.com/in/mohammad-amin-pishdar/
+    
+<!--
+**mohammad-amin-pishdar/mohammad-amin-pishdar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
