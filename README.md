@@ -1,6 +1,6 @@
 ### World 00101110, hellllo 👋
 
-Hi guys, I’m Pishdar! a creator who hates his own creation.
+Hi guys, I’m Mohammad amin Pishdar!
 I'm a developer and a reverse engineer, and I also develop fast learning methods who loves:
 
 <ul>
