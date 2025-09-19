@@ -17,9 +17,9 @@ I'm active in these fields:
 My activity and programming language usage on GitHub are automatically updated.
 
 <div align="center">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dma-Pishdar%26layout%3Dcompact%26theme%3Dvision-friendly-light" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dma-Pishdar%26layout%3Dcompact%26theme%3Dvision-friendly-light" alt="Top Languages" />
 
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dma-Pishdar%26show_icons%3Dtrue%26theme%3Dvision-friendly-light" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api%3Fusername%3Dma-Pishdar%26show_icons%3Dtrue%26theme%3Dvision-friendly-light" alt="GitHub Stats" />
 </div>
 
 🤝 Let's Connect!
