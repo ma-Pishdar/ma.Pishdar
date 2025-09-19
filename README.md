@@ -13,14 +13,8 @@ I'm active in these fields:
 - 📈 Risk and Finance
 - 📦 Machine Learning as a Service (MLaaS)
 
-📊 GitHub Insights
-My activity and programming language usage on GitHub are automatically updated.
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dma-Pishdar%26layout%3Dcompact%26theme%3Dvision-friendly-light" alt="Top Languages" />
 
-<img src="https://github-readme-stats.vercel.app/api%3Fusername%3Dma-Pishdar%26show_icons%3Dtrue%26theme%3Dvision-friendly-light" alt="GitHub Stats" />
-</div>
 
 🤝 Let's Connect!
 I am always open to new connections and collaborations. Feel free to reach out to me via the links below:
